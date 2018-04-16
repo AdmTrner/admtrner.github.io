@@ -1,9 +1,9 @@
 p {
-	color: blue;
-	font: arial;
+	
+	font-family: sans-serif;
 }
 
 h3 {
-	margin-top: 10px;
-	font-size: 28px;
+	margin-bottom: 10px;
+	font-size: 72px;
 }
